@@ -1,8 +1,5 @@
-# Stock_predict
+The product is our entry for the AI Challenge hosted by RIPT for the D23 cohort. While it still has some limitations, it reflects the dedication and countless sleepless nights of our team, as well as our efforts in selecting algorithms and exploring innovative directions. We hope that you will view our work with an open and positive mindset. We are always eager to receive feedback and suggestions to improve and enhance our product.
 
-Sản phẩm là bài dự thi AI challenge của RIPT khóa D23.
-Sản phẩm còn nhiều thiếu sót nhưng đó là sự cố gắng của nhiều đêm không ngủ, chọn lọc thuật toán và nghiên cứu hướng đi của thành viên.
-Mong rằng mọi người hãy đóng nhận sản phẩm của chúng tôi một cách tích cực.
-Chúng tôi luôn sẵn sàn đón nhận mọi ý kiến, đóng góp để cải thiện sản phẩm hơn nữa...^^
-Contact to us: Gmail: a316nguyenminhhieu@gmail.com
-               Facebock: https://www.facebook.com/profile.php?id=100080695154686
+Feel free to contact us:
+Email: a316nguyenminhhieu@gmail.com
+Facebook: https://www.facebook.com/profile.php?id=100080695154686
